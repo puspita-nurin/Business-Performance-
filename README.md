@@ -6,7 +6,7 @@ Initially, data visualization was done using PowerPoint in the form of static re
 
 ---
 
-# **Indonesian Ver** 
+# **Indonesian Version** 
 
 ---
 Proyek ini merupakan keseluruhan pekerjaan saya selama menjadi Business Performance, yang mencakup pengelolaan data B2B dan B2C. Saya bertanggung jawab dalam melakukan update performance harian, mingguan, dan bulanan dengan melakukan penarikan data dari sistem OSS, kemudian melakukan pembersihan, pengolahan, serta validasi data untuk memastikan akurasi dan konsistensi data. Saya juga mengelola data dalam jumlah besar dengan menjaga kualitas data agar dapat digunakan secara optimal dalam proses pelaporan.
